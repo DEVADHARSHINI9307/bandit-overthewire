@@ -13,4 +13,4 @@ the service expects the current level password
 
 exit
 
-password of next level (bandit16) is displaye
+password of next level (bandit16) is displayed
